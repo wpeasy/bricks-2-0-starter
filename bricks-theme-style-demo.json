@@ -1,0 +1,124 @@
+{
+  "label": "Demo",
+  "settings": {
+    "_custom": true,
+    "conditions": {
+      "conditions": [
+        {
+          "id": "wwwmhw",
+          "main": "any"
+        }
+      ]
+    },
+    "colors": {
+      "colorPrimary": {
+        "raw": "var(--primary)",
+        "id": "jottew",
+        "name": "Primary"
+      },
+      "colorSecondary": {
+        "raw": "var(--secondary)",
+        "id": "lraacl",
+        "name": "Secondary"
+      },
+      "colorLight": {
+        "raw": "var(--light)",
+        "id": "ewcwbn",
+        "name": "Light"
+      },
+      "colorDark": {
+        "raw": "var(--dark)",
+        "id": "cwzoil",
+        "name": "Dark"
+      }
+    },
+    "typography": {
+      "typographyBody": {
+        "font-size": "var(--text--s)"
+      },
+      "typographyHeadingH4": {
+        "font-size": "var(--text--s)"
+      },
+      "typographyHeadingH3": {
+        "font-size": "var(--text--m)"
+      },
+      "typographyHeadingH2": {
+        "font-size": "var(--text--l)"
+      },
+      "typographyHeadingH1": {
+        "font-size": "var(--text--xl)"
+      },
+      "typographyHeadingH5": {
+        "font-size": "var(--text--xs)"
+      }
+    },
+    "section": {
+      "_rowGap": "var(--container-gap)",
+      "padding": {
+        "bottom": "var(--section-padding-block)",
+        "top": "var(--section-padding-block)",
+        "right": "var(--gutter)",
+        "left": "var(--gutter)"
+      }
+    },
+    "container": {
+      "_columnGap": "var(--content-gap)",
+      "_rowGap": "var(--content-gap--l)"
+    },
+    "block": {
+      "_columnGap": "var(--content-gap)",
+      "_rowGap": "var(--content-gap)"
+    },
+    "button": {
+      "typography": {
+        "color": {
+          "raw": "var(--light)",
+          "id": "ewcwbn",
+          "name": "Light"
+        }
+      },
+      "primaryBackground:hover": {
+        "raw": "var(--primary-dark)",
+        "id": "pxyhcf",
+        "name": "Primary Dark"
+      },
+      "secondaryBackground:hover": {
+        "raw": "var(--secondary-dark)",
+        "id": "jwssmb",
+        "name": "Secondary Dark"
+      },
+      "lightTypography": {
+        "color": {
+          "raw": "var(--dark)",
+          "id": "cwzoil",
+          "name": "Dark"
+        }
+      },
+      "lightBackground:hover": {
+        "raw": "var(--primary-dark)",
+        "id": "pxyhcf",
+        "name": "Primary Dark"
+      },
+      "lightTypography:hover": {
+        "color": {
+          "raw": "var(--light)",
+          "id": "ewcwbn",
+          "name": "Light"
+        }
+      },
+      "darkBackground:hover": {
+        "raw": "var(--primary-dark)",
+        "id": "pxyhcf",
+        "name": "Primary Dark"
+      },
+      "darkTypography:hover": {
+        "color": {
+          "raw": "var(--light)",
+          "id": "ewcwbn",
+          "name": "Light"
+        }
+      }
+    }
+  },
+  "id": "demo"
+}

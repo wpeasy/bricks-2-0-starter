@@ -1,0 +1,46 @@
+{
+  "id": "rtpvxk",
+  "name": "Demo",
+  "colors": [
+    {
+      "raw": "var(--primary)",
+      "id": "jottew",
+      "name": "Primary"
+    },
+    {
+      "raw": "var(--primary-light)",
+      "id": "gvyrvh",
+      "name": "Primary Light"
+    },
+    {
+      "raw": "var(--primary-dark)",
+      "id": "pxyhcf",
+      "name": "Primary Dark"
+    },
+    {
+      "raw": "var(--secondary)",
+      "id": "lraacl",
+      "name": "Secondary"
+    },
+    {
+      "raw": "var(--secondary-light)",
+      "id": "fkqxdw",
+      "name": "Secondary Light"
+    },
+    {
+      "raw": "var(--secondary-dark)",
+      "id": "jwssmb",
+      "name": "Secondary Dark"
+    },
+    {
+      "raw": "var(--light)",
+      "id": "ewcwbn",
+      "name": "Light"
+    },
+    {
+      "raw": "var(--dark)",
+      "id": "cwzoil",
+      "name": "Dark"
+    }
+  ]
+}
